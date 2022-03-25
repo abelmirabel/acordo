@@ -1,25 +1,14 @@
 
 
 Version:	3.14
-CmdLine:	C:\Users\daniel.luiz\Desktop\acordo.exe --l4j-debug
+CmdLine:	C:\Users\daniel.luiz\Desktop\acordoExe\new\AlteraNumeroAcordo.exe --l4j-debug
 WOW64:		yes
-Working dir:	C:\Users\daniel.luiz\Desktop\.
-Java min ver:	1.000.000
+Working dir:	C:\Users\daniel.luiz\Desktop\acordoExe\new\.
+Java min ver:	
 Java max ver:	
-Bundled JRE(s):	1.0.0
-Check launcher:	C:\Users\daniel.luiz\Desktop\1.0.0\bin\javaw.exe (not found)
-64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
-Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
-Check launcher:	C:\Program Files\Java\jre1.8.0_271\bin\javaw.exe (OK)
-Match:		1.008.000
-Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_271
-Check launcher:	C:\Program Files\Java\jre1.8.0_271\bin\javaw.exe (OK)
-Match:		1.008.000_271
-64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
-64-bit search:	SOFTWARE\JavaSoft\JRE...
-64-bit search:	SOFTWARE\JavaSoft\JDK...
-Runtime used:	1.008.000_271 (64-bit)
-Launcher:	C:\Program Files\Java\jre1.8.0_271\bin\javaw.exe
-Launcher args:	-jar "C:\Users\daniel.luiz\Desktop\acordo.exe"
-Args length:	46/32768 chars
+Bundled JRE(s):	jre
+Check launcher:	C:\Users\daniel.luiz\Desktop\acordoExe\new\jre\bin\javaw.exe (OK)
+Launcher:	C:\Users\daniel.luiz\Desktop\acordoExe\new\jre\bin\javaw.exe
+Launcher args:	-jar "C:\Users\daniel.luiz\Desktop\acordoExe\new\AlteraNumeroAcordo.exe"
+Args length:	72/32768 chars
 Exit code:	0
